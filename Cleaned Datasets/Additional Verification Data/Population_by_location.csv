@@ -1,0 +1,388 @@
+Region,Population,Planning_Area,Postal_District,Postal_District_Name,Level
+Ang Mo Kio - Total,162280,Ang Mo Kio,D20,"Bishan, Ang Mo Kio",planning_area
+Ang Mo Kio Town Centre,4810,Ang Mo Kio,D20,"Bishan, Ang Mo Kio",subzone
+Cheng San,28070,Ang Mo Kio,D20,"Bishan, Ang Mo Kio",subzone
+Chong Boon,26500,Ang Mo Kio,D20,"Bishan, Ang Mo Kio",subzone
+Kebun Bahru,22620,Ang Mo Kio,D20,"Bishan, Ang Mo Kio",subzone
+Sembawang Hills,6850,Ang Mo Kio,D20,"Bishan, Ang Mo Kio",subzone
+Shangri-La,15960,Ang Mo Kio,D20,"Bishan, Ang Mo Kio",subzone
+Tagore,7950,Ang Mo Kio,D20,"Bishan, Ang Mo Kio",subzone
+Townsville,21140,Ang Mo Kio,D20,"Bishan, Ang Mo Kio",subzone
+Yio Chu Kang,20,Ang Mo Kio,D20,"Bishan, Ang Mo Kio",subzone
+Yio Chu Kang East,4200,Ang Mo Kio,D20,"Bishan, Ang Mo Kio",subzone
+Yio Chu Kang North,0,Ang Mo Kio,D20,"Bishan, Ang Mo Kio",subzone
+Yio Chu Kang West,24150,Ang Mo Kio,D20,"Bishan, Ang Mo Kio",subzone
+Bedok - Total,276990,Bedok,D16,"Bedok, Upper East Coast, Eastwood, Kew Drive",planning_area
+Bayshore,7450,Bedok,D16,"Bedok, Upper East Coast, Eastwood, Kew Drive",subzone
+Bedok North,81840,Bedok,D16,"Bedok, Upper East Coast, Eastwood, Kew Drive",subzone
+Bedok Reservoir,25470,Bedok,D16,"Bedok, Upper East Coast, Eastwood, Kew Drive",subzone
+Bedok South,46690,Bedok,D16,"Bedok, Upper East Coast, Eastwood, Kew Drive",subzone
+Frankel,34490,Bedok,D16,"Bedok, Upper East Coast, Eastwood, Kew Drive",subzone
+Kaki Bukit,37150,Bedok,D16,"Bedok, Upper East Coast, Eastwood, Kew Drive",subzone
+Kembangan,37460,Bedok,D16,"Bedok, Upper East Coast, Eastwood, Kew Drive",subzone
+Siglap,6440,Bedok,D16,"Bedok, Upper East Coast, Eastwood, Kew Drive",subzone
+Bishan - Total,87320,Bishan,D20,"Bishan, Ang Mo Kio",planning_area
+Bishan East,28310,Bishan,D20,"Bishan, Ang Mo Kio",subzone
+Marymount,29620,Bishan,D20,"Bishan, Ang Mo Kio",subzone
+Upper Thomson,29390,Bishan,D20,"Bishan, Ang Mo Kio",subzone
+Boon Lay - Total,40,Boon Lay,D22,Jurong,planning_area
+Liu Fang,10,Boon Lay,D22,Jurong,subzone
+Samulun,10,Boon Lay,D22,Jurong,subzone
+Shipyard,0,Boon Lay,D22,Jurong,subzone
+Tukang,10,Boon Lay,D22,Jurong,subzone
+Bukit Batok - Total,158030,Bukit Batok,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",planning_area
+Brickworks,19820,Bukit Batok,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Bukit Batok Central,27290,Bukit Batok,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Bukit Batok East,12690,Bukit Batok,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Bukit Batok South,14930,Bukit Batok,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Bukit Batok West,15000,Bukit Batok,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Gombak,9930,Bukit Batok,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Guilin,12940,Bukit Batok,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Hillview,19300,Bukit Batok,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Hong Kah North,26150,Bukit Batok,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Bukit Merah - Total,151250,Bukit Merah,D04,"Telok Blangah, Harbourfront",planning_area
+Alexandra Hill,13490,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Alexandra North,2620,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Bukit Ho Swee,14390,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Bukit Merah,1110,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+City Terminals,20,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Depot Road,6540,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Everton Park,7810,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Henderson Hill,13320,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Kampong Tiong Bahru,9010,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Maritime Square,3620,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Redhill,10620,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Singapore General Hospital,10,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Telok Blangah Drive,19320,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Telok Blangah Rise,12150,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Telok Blangah Way,9230,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Tiong Bahru,12890,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Tiong Bahru Station,15120,Bukit Merah,D04,"Telok Blangah, Harbourfront",subzone
+Bukit Panjang - Total,138270,Bukit Panjang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",planning_area
+Bangkit,22270,Bukit Panjang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Dairy Farm,6940,Bukit Panjang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Fajar,27820,Bukit Panjang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Jelebu,31310,Bukit Panjang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Nature Reserve,3850,Bukit Panjang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Saujana,25920,Bukit Panjang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Senja,20170,Bukit Panjang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Bukit Timah - Total,77860,Bukit Timah,D21,"Upper Bukit Timah, Clementi Park, Ulu Pandan",planning_area
+Anak Bukit,21870,Bukit Timah,D21,"Upper Bukit Timah, Clementi Park, Ulu Pandan",subzone
+Coronation Road,6690,Bukit Timah,D21,"Upper Bukit Timah, Clementi Park, Ulu Pandan",subzone
+Farrer Court,6180,Bukit Timah,D21,"Upper Bukit Timah, Clementi Park, Ulu Pandan",subzone
+Hillcrest,9470,Bukit Timah,D21,"Upper Bukit Timah, Clementi Park, Ulu Pandan",subzone
+Holland Road,10840,Bukit Timah,D21,"Upper Bukit Timah, Clementi Park, Ulu Pandan",subzone
+Leedon Park,6440,Bukit Timah,D21,"Upper Bukit Timah, Clementi Park, Ulu Pandan",subzone
+Swiss Club,5340,Bukit Timah,D21,"Upper Bukit Timah, Clementi Park, Ulu Pandan",subzone
+Ulu Pandan,11020,Bukit Timah,D21,"Upper Bukit Timah, Clementi Park, Ulu Pandan",subzone
+Central Water Catchment - Total,0,Central Water Catchment,D26,"Upper Thomson, Springleaf",planning_area
+Central Water Catchment,0,Central Water Catchment,D26,"Upper Thomson, Springleaf",subzone
+Changi- Total,1850,Changi,D17,"Loyang, Changi",planning_area
+Changi Airport,10,Changi,D17,"Loyang, Changi",subzone
+Changi Point,540,Changi,D17,"Loyang, Changi",subzone
+Changi West,1300,Changi,D17,"Loyang, Changi",subzone
+Changi Bay - Total,0,Changi Bay,D17,"Loyang, Changi",planning_area
+Changi Bay,0,Changi Bay,D17,"Loyang, Changi",subzone
+Choa Chu Kang - Total,192070,Choa Chu Kang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",planning_area
+Choa Chu Kang Central,22530,Choa Chu Kang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Choa Chu Kang North,31930,Choa Chu Kang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Keat Hong,38180,Choa Chu Kang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Peng Siang,34720,Choa Chu Kang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Teck Whye,24320,Choa Chu Kang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Yew Tee,40390,Choa Chu Kang,D23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",subzone
+Clementi - Total,91990,Clementi,D05,"Pasir Panjang, Hong Leong Garden, Clementi New Town",planning_area
+Clementi Central,14000,Clementi,D05,"Pasir Panjang, Hong Leong Garden, Clementi New Town",subzone
+Clementi North,28810,Clementi,D05,"Pasir Panjang, Hong Leong Garden, Clementi New Town",subzone
+Clementi West,15260,Clementi,D05,"Pasir Panjang, Hong Leong Garden, Clementi New Town",subzone
+Clementi Woods,16000,Clementi,D05,"Pasir Panjang, Hong Leong Garden, Clementi New Town",subzone
+Faber,5360,Clementi,D05,"Pasir Panjang, Hong Leong Garden, Clementi New Town",subzone
+Pandan,20,Clementi,D05,"Pasir Panjang, Hong Leong Garden, Clementi New Town",subzone
+Sunset Way,5650,Clementi,D05,"Pasir Panjang, Hong Leong Garden, Clementi New Town",subzone
+Toh Tuck,20,Clementi,D05,"Pasir Panjang, Hong Leong Garden, Clementi New Town",subzone
+West Coast,6870,Clementi,D05,"Pasir Panjang, Hong Leong Garden, Clementi New Town",subzone
+Downtown Core - Total,3190,Downtown Core,D01,"Raffles Place, Cecil, Marina, People's Park",planning_area
+Anson,80,Downtown Core,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Bayfront Subzone,0,Downtown Core,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Bugis,890,Downtown Core,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Cecil,260,Downtown Core,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Central Subzone,880,Downtown Core,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+City Hall,80,Downtown Core,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Clifford Pier,0,Downtown Core,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Marina Centre,10,Downtown Core,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Maxwell,0,Downtown Core,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Nicoll,290,Downtown Core,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Phillip,10,Downtown Core,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Raffles Place,40,Downtown Core,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Tanjong Pagar,670,Downtown Core,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Geylang - Total,110110,Geylang,D14,"Geylang, Eunos",planning_area
+Aljunied,39990,Geylang,D14,"Geylang, Eunos",subzone
+Geylang East,29920,Geylang,D14,"Geylang, Eunos",subzone
+Kallang Way,30,Geylang,D14,"Geylang, Eunos",subzone
+Kampong Ubi,11800,Geylang,D14,"Geylang, Eunos",subzone
+Macpherson,28360,Geylang,D14,"Geylang, Eunos",subzone
+Hougang - Total,227560,Hougang,D19,"Serangoon Garden, Hougang, Punggol",planning_area
+Defu Industrial Park,20,Hougang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Hougang Central,4720,Hougang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Hougang East,24920,Hougang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Hougang West,45460,Hougang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Kangkar,32290,Hougang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Kovan,24810,Hougang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Lorong Ah Soo,32320,Hougang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Lorong Halus,0,Hougang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Tai Seng,13830,Hougang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Trafalgar,49200,Hougang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Jurong East - Total,78600,Jurong East,D22,Jurong,planning_area
+International Business Park,10,Jurong East,D22,Jurong,subzone
+Jurong Gateway,450,Jurong East,D22,Jurong,subzone
+Jurong Port,0,Jurong East,D22,Jurong,subzone
+Jurong River,10,Jurong East,D22,Jurong,subzone
+Lakeside (Business),0,Jurong East,D22,Jurong,subzone
+Lakeside (Leisure),1070,Jurong East,D22,Jurong,subzone
+Penjuru Crescent,10,Jurong East,D22,Jurong,subzone
+Teban Gardens,18530,Jurong East,D22,Jurong,subzone
+Toh Guan,14590,Jurong East,D22,Jurong,subzone
+Yuhua East,24770,Jurong East,D22,Jurong,subzone
+Yuhua West,19160,Jurong East,D22,Jurong,subzone
+Jurong West - Total,262730,Jurong West,D22,Jurong,planning_area
+Boon Lay Place,29340,Jurong West,D22,Jurong,subzone
+Chin Bee,0,Jurong West,D22,Jurong,subzone
+Hong Kah,53890,Jurong West,D22,Jurong,subzone
+Jurong West Central,63760,Jurong West,D22,Jurong,subzone
+Kian Teck,40,Jurong West,D22,Jurong,subzone
+Safti,0,Jurong West,D22,Jurong,subzone
+Taman Jurong,39920,Jurong West,D22,Jurong,subzone
+Wenya,8280,Jurong West,D22,Jurong,subzone
+Yunnan,67500,Jurong West,D22,Jurong,subzone
+Kallang - Total,101290,Kallang,D08,Little India,planning_area
+Bendemeer,37570,Kallang,D08,Little India,subzone
+Boon Keng,11790,Kallang,D08,Little India,subzone
+Crawford,8380,Kallang,D08,Little India,subzone
+Geylang Bahru,11280,Kallang,D08,Little India,subzone
+Kallang Bahru,20,Kallang,D08,Little India,subzone
+Kampong Bugis,920,Kallang,D08,Little India,subzone
+Kampong Java,10530,Kallang,D08,Little India,subzone
+Lavender,9690,Kallang,D08,Little India,subzone
+Tanjong Rhu,11110,Kallang,D08,Little India,subzone
+Lim Chu Kang - Total,110,Lim Chu Kang,D24,"Lim Chu Kang, Tengah",planning_area
+Lim Chu Kang,110,Lim Chu Kang,D24,"Lim Chu Kang, Tengah",subzone
+Mandai - Total,2090,Mandai,D26,"Upper Thomson, Springleaf",planning_area
+Mandai East,0,Mandai,D26,"Upper Thomson, Springleaf",subzone
+Mandai Estate,2090,Mandai,D26,"Upper Thomson, Springleaf",subzone
+Mandai West,0,Mandai,D26,"Upper Thomson, Springleaf",subzone
+Marina East - Total,0,Marina East,D01,"Raffles Place, Cecil, Marina, People's Park",planning_area
+Marina East,0,Marina East,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Marina South - Total,0,Marina South,D01,"Raffles Place, Cecil, Marina, People's Park",planning_area
+Marina South,0,Marina South,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Marine Parade - Total,46220,Marine Parade,D15,"Katong, Joo Chiat, Amber Road",planning_area
+East Coast,0,Marine Parade,D15,"Katong, Joo Chiat, Amber Road",subzone
+Katong,9360,Marine Parade,D15,"Katong, Joo Chiat, Amber Road",subzone
+Marina East (Mp),0,Marine Parade,D15,"Katong, Joo Chiat, Amber Road",subzone
+Marine Parade,26880,Marine Parade,D15,"Katong, Joo Chiat, Amber Road",subzone
+Mountbatten,9980,Marine Parade,D15,"Katong, Joo Chiat, Amber Road",subzone
+Museum - Total,510,Museum,D06,"High Street, Beach Road (part)",planning_area
+Bras Basah,10,Museum,D06,"High Street, Beach Road (part)",subzone
+Dhoby Ghaut,320,Museum,D06,"High Street, Beach Road (part)",subzone
+Fort Canning,190,Museum,D06,"High Street, Beach Road (part)",subzone
+Newton - Total,8260,Newton,D11,"Watten Estate, Novena, Thomson",planning_area
+Cairnhill,3880,Newton,D11,"Watten Estate, Novena, Thomson",subzone
+Goodwood Park,1260,Newton,D11,"Watten Estate, Novena, Thomson",subzone
+Istana Negara,60,Newton,D11,"Watten Estate, Novena, Thomson",subzone
+Monk's Hill,1030,Newton,D11,"Watten Estate, Novena, Thomson",subzone
+Newton Circus,250,Newton,D11,"Watten Estate, Novena, Thomson",subzone
+Orange Grove,1790,Newton,D11,"Watten Estate, Novena, Thomson",subzone
+North-Eastern Islands - Total,50,North-Eastern Islands,D19,"Serangoon Garden, Hougang, Punggol",planning_area
+North-Eastern Islands,50,North-Eastern Islands,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Novena - Total,49330,Novena,D11,"Watten Estate, Novena, Thomson",planning_area
+Balestier,32430,Novena,D11,"Watten Estate, Novena, Thomson",subzone
+Dunearn,3960,Novena,D11,"Watten Estate, Novena, Thomson",subzone
+Malcolm,2950,Novena,D11,"Watten Estate, Novena, Thomson",subzone
+Moulmein,9300,Novena,D11,"Watten Estate, Novena, Thomson",subzone
+Mount Pleasant,690,Novena,D11,"Watten Estate, Novena, Thomson",subzone
+Orchard - Total,920,Orchard,D09,"Orchard, Cairnhill, River Valley",planning_area
+Boulevard,410,Orchard,D09,"Orchard, Cairnhill, River Valley",subzone
+Somerset,140,Orchard,D09,"Orchard, Cairnhill, River Valley",subzone
+Tanglin,370,Orchard,D09,"Orchard, Cairnhill, River Valley",subzone
+Outram - Total,18340,Outram,D02,"Anson, Tanjong Pagar",planning_area
+China Square,1430,Outram,D02,"Anson, Tanjong Pagar",subzone
+Chinatown,10490,Outram,D02,"Anson, Tanjong Pagar",subzone
+Pearl's Hill,6120,Outram,D02,"Anson, Tanjong Pagar",subzone
+People's Park,290,Outram,D02,"Anson, Tanjong Pagar",subzone
+Pasir Ris - Total,147110,Pasir Ris,D18,"Tampines, Pasir Ris",planning_area
+Flora Drive,14680,Pasir Ris,D18,"Tampines, Pasir Ris",subzone
+Loyang East,2140,Pasir Ris,D18,"Tampines, Pasir Ris",subzone
+Loyang West,220,Pasir Ris,D18,"Tampines, Pasir Ris",subzone
+Pasir Ris Central,32240,Pasir Ris,D18,"Tampines, Pasir Ris",subzone
+Pasir Ris Drive,54420,Pasir Ris,D18,"Tampines, Pasir Ris",subzone
+Pasir Ris Park,7620,Pasir Ris,D18,"Tampines, Pasir Ris",subzone
+Pasir Ris Wafer Fab Park,10,Pasir Ris,D18,"Tampines, Pasir Ris",subzone
+Pasir Ris West,35790,Pasir Ris,D18,"Tampines, Pasir Ris",subzone
+Paya Lebar - Total,40,Paya Lebar,D13,"Macpherson, Braddell",planning_area
+Airport Road,0,Paya Lebar,D13,"Macpherson, Braddell",subzone
+Paya Lebar East,10,Paya Lebar,D13,"Macpherson, Braddell",subzone
+Paya Lebar North,30,Paya Lebar,D13,"Macpherson, Braddell",subzone
+Paya Lebar West,0,Paya Lebar,D13,"Macpherson, Braddell",subzone
+Plab,0,Paya Lebar,D13,"Macpherson, Braddell",subzone
+Pioneer - Total,80,Pioneer,D22,Jurong,planning_area
+Benoi Sector,10,Pioneer,D22,Jurong,subzone
+Gul Basin,10,Pioneer,D22,Jurong,subzone
+Gul Circle,20,Pioneer,D22,Jurong,subzone
+Joo Koon,30,Pioneer,D22,Jurong,subzone
+Pioneer Sector,0,Pioneer,D22,Jurong,subzone
+Punggol - Total,174450,Punggol,D19,"Serangoon Garden, Hougang, Punggol",planning_area
+Coney Island,0,Punggol,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Matilda,52200,Punggol,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Northshore,460,Punggol,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Punggol Canal,0,Punggol,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Punggol Field,48960,Punggol,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Punggol Town Centre,22260,Punggol,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Waterway East,50580,Punggol,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Queenstown - Total,95930,Queenstown,D03,"Queenstown, Tiong Bahru",planning_area
+Commonwealth,7000,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+Dover,11080,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+Ghim Moh,13850,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+Holland Drive,12680,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+Kent Ridge,80,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+Margaret Drive,16090,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+Mei Chin,15570,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+National University Of S'pore,240,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+One North,720,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+Pasir Panjang 1,4510,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+Pasir Panjang 2,3060,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+Port,120,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+Queensway,270,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+Singapore Polytechnic,100,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+Tanglin Halt,10590,Queenstown,D03,"Queenstown, Tiong Bahru",subzone
+River Valley - Total,10070,River Valley,D09,"Orchard, Cairnhill, River Valley",planning_area
+Institution Hill,3150,River Valley,D09,"Orchard, Cairnhill, River Valley",subzone
+Leonie Hill,3120,River Valley,D09,"Orchard, Cairnhill, River Valley",subzone
+One Tree Hill,2070,River Valley,D09,"Orchard, Cairnhill, River Valley",subzone
+Oxley,1490,River Valley,D09,"Orchard, Cairnhill, River Valley",subzone
+Paterson,240,River Valley,D09,"Orchard, Cairnhill, River Valley",subzone
+Rochor - Total,13120,Rochor,D07,"Middle Road, Golden Mile",planning_area
+Bencoolen,1310,Rochor,D07,"Middle Road, Golden Mile",subzone
+Farrer Park,2660,Rochor,D07,"Middle Road, Golden Mile",subzone
+Kampong Glam,120,Rochor,D07,"Middle Road, Golden Mile",subzone
+Little India,3270,Rochor,D07,"Middle Road, Golden Mile",subzone
+Mackenzie,110,Rochor,D07,"Middle Road, Golden Mile",subzone
+Mount Emily,1630,Rochor,D07,"Middle Road, Golden Mile",subzone
+Rochor Canal,0,Rochor,D07,"Middle Road, Golden Mile",subzone
+Selegie,210,Rochor,D07,"Middle Road, Golden Mile",subzone
+Sungei Road,2050,Rochor,D07,"Middle Road, Golden Mile",subzone
+Victoria,1760,Rochor,D07,"Middle Road, Golden Mile",subzone
+Seletar - Total,300,Seletar,D28,Seletar,planning_area
+Pulau Punggol Barat,0,Seletar,D28,Seletar,subzone
+Pulau Punggol Timor,0,Seletar,D28,Seletar,subzone
+Seletar,280,Seletar,D28,Seletar,subzone
+Seletar Aerospace Park,20,Seletar,D28,Seletar,subzone
+Sembawang - Total,102640,Sembawang,D27,"Yishun, Sembawang",planning_area
+Admiralty,13920,Sembawang,D27,"Yishun, Sembawang",subzone
+Sembawang Central,34800,Sembawang,D27,"Yishun, Sembawang",subzone
+Sembawang East,17340,Sembawang,D27,"Yishun, Sembawang",subzone
+Sembawang North,25540,Sembawang,D27,"Yishun, Sembawang",subzone
+Sembawang Springs,9090,Sembawang,D27,"Yishun, Sembawang",subzone
+Sembawang Straits,1910,Sembawang,D27,"Yishun, Sembawang",subzone
+Senoko North,10,Sembawang,D27,"Yishun, Sembawang",subzone
+Senoko South,30,Sembawang,D27,"Yishun, Sembawang",subzone
+The Wharves,0,Sembawang,D27,"Yishun, Sembawang",subzone
+Sengkang - Total,249370,Sengkang,D19,"Serangoon Garden, Hougang, Punggol",planning_area
+Anchorvale,48120,Sengkang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Compassvale,20960,Sengkang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Fernvale,58800,Sengkang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Lorong Halus North,0,Sengkang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Rivervale,59700,Sengkang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Sengkang Town Centre,61790,Sengkang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Sengkang West,10,Sengkang,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Serangoon - Total,116900,Serangoon,D19,"Serangoon Garden, Hougang, Punggol",planning_area
+Lorong Chuan,8490,Serangoon,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Seletar Hills,14700,Serangoon,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Serangoon Central,24760,Serangoon,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Serangoon Garden,36080,Serangoon,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Serangoon North,15940,Serangoon,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Serangoon North Ind Estate,10,Serangoon,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Upper Paya Lebar,16920,Serangoon,D19,"Serangoon Garden, Hougang, Punggol",subzone
+Simpang - Total,0,Simpang,D27,"Yishun, Sembawang",planning_area
+Pulau Seletar,0,Simpang,D27,"Yishun, Sembawang",subzone
+Simpang North,0,Simpang,D27,"Yishun, Sembawang",subzone
+Simpang South,0,Simpang,D27,"Yishun, Sembawang",subzone
+Tanjong Irau,0,Simpang,D27,"Yishun, Sembawang",subzone
+Singapore River - Total,3260,Singapore River,D01,"Raffles Place, Cecil, Marina, People's Park",planning_area
+Boat Quay,130,Singapore River,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Clarke Quay,130,Singapore River,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Robertson Quay,3010,Singapore River,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Southern Islands - Total,1940,Southern Islands,D04,"Telok Blangah, Harbourfront",planning_area
+Sentosa,1940,Southern Islands,D04,"Telok Blangah, Harbourfront",subzone
+Southern Group,0,Southern Islands,D04,"Telok Blangah, Harbourfront",subzone
+Straits View - Total,0,Straits View,D01,"Raffles Place, Cecil, Marina, People's Park",planning_area
+Straits View,0,Straits View,D01,"Raffles Place, Cecil, Marina, People's Park",subzone
+Sungei Kadut - Total,750,Sungei Kadut,D25,"Kranji, Woodgrove",planning_area
+Gali Batu,30,Sungei Kadut,D25,"Kranji, Woodgrove",subzone
+Kranji,10,Sungei Kadut,D25,"Kranji, Woodgrove",subzone
+Pang Sua,20,Sungei Kadut,D25,"Kranji, Woodgrove",subzone
+Reservoir View,20,Sungei Kadut,D25,"Kranji, Woodgrove",subzone
+Turf Club,670,Sungei Kadut,D25,"Kranji, Woodgrove",subzone
+Tampines - Total,259900,Tampines,D18,"Tampines, Pasir Ris",planning_area
+Simei,39450,Tampines,D18,"Tampines, Pasir Ris",subzone
+Tampines East,130980,Tampines,D18,"Tampines, Pasir Ris",subzone
+Tampines North,8040,Tampines,D18,"Tampines, Pasir Ris",subzone
+Tampines West,79670,Tampines,D18,"Tampines, Pasir Ris",subzone
+Xilin,1760,Tampines,D18,"Tampines, Pasir Ris",subzone
+Tanglin - Total,21810,Tanglin,D10,"Ardmore, Bukit Timah, Holland Road, Tanglin",planning_area
+Chatsworth,6890,Tanglin,D10,"Ardmore, Bukit Timah, Holland Road, Tanglin",subzone
+Nassim,9520,Tanglin,D10,"Ardmore, Bukit Timah, Holland Road, Tanglin",subzone
+Ridout,1520,Tanglin,D10,"Ardmore, Bukit Timah, Holland Road, Tanglin",subzone
+Tyersall,3880,Tanglin,D10,"Ardmore, Bukit Timah, Holland Road, Tanglin",subzone
+Tengah - Total,10,Tengah,D24,"Lim Chu Kang, Tengah",planning_area
+Brickland,0,Tengah,D24,"Lim Chu Kang, Tengah",subzone
+Forest Hill,10,Tengah,D24,"Lim Chu Kang, Tengah",subzone
+Garden,0,Tengah,D24,"Lim Chu Kang, Tengah",subzone
+Park,0,Tengah,D24,"Lim Chu Kang, Tengah",subzone
+Plantation,0,Tengah,D24,"Lim Chu Kang, Tengah",subzone
+Tengah Industrial Estate,0,Tengah,D24,"Lim Chu Kang, Tengah",subzone
+Toa Payoh - Total,121850,Toa Payoh,D12,"Balestier, Toa Payoh, Serangoon",planning_area
+Bidadari,0,Toa Payoh,D12,"Balestier, Toa Payoh, Serangoon",subzone
+Boon Teck,14660,Toa Payoh,D12,"Balestier, Toa Payoh, Serangoon",subzone
+Braddell,9810,Toa Payoh,D12,"Balestier, Toa Payoh, Serangoon",subzone
+Joo Seng,8150,Toa Payoh,D12,"Balestier, Toa Payoh, Serangoon",subzone
+Kim Keat,7960,Toa Payoh,D12,"Balestier, Toa Payoh, Serangoon",subzone
+Lorong 8 Toa Payoh,7160,Toa Payoh,D12,"Balestier, Toa Payoh, Serangoon",subzone
+Pei Chun,10360,Toa Payoh,D12,"Balestier, Toa Payoh, Serangoon",subzone
+Potong Pasir,11720,Toa Payoh,D12,"Balestier, Toa Payoh, Serangoon",subzone
+Sennett,7190,Toa Payoh,D12,"Balestier, Toa Payoh, Serangoon",subzone
+Toa Payoh Central,28020,Toa Payoh,D12,"Balestier, Toa Payoh, Serangoon",subzone
+Toa Payoh West,14360,Toa Payoh,D12,"Balestier, Toa Payoh, Serangoon",subzone
+Woodleigh,2450,Toa Payoh,D12,"Balestier, Toa Payoh, Serangoon",subzone
+Tuas - Total,70,Tuas,D22,Jurong,planning_area
+Tengeh,0,Tuas,D22,Jurong,subzone
+Tuas Bay,10,Tuas,D22,Jurong,subzone
+Tuas North,30,Tuas,D22,Jurong,subzone
+Tuas Promenade,10,Tuas,D22,Jurong,subzone
+Tuas View,10,Tuas,D22,Jurong,subzone
+Tuas View Extension,10,Tuas,D22,Jurong,subzone
+Western Islands - Total,10,Western Islands,D22,Jurong,planning_area
+Jurong Island And Bukom,10,Western Islands,D22,Jurong,subzone
+Semakau,0,Western Islands,D22,Jurong,subzone
+Sudong,0,Western Islands,D22,Jurong,subzone
+Western Water Catchment - Total,640,Western Water Catchment,D24,"Lim Chu Kang, Tengah",planning_area
+Bahar,0,Western Water Catchment,D24,"Lim Chu Kang, Tengah",subzone
+Cleantech,0,Western Water Catchment,D24,"Lim Chu Kang, Tengah",subzone
+Murai,640,Western Water Catchment,D24,"Lim Chu Kang, Tengah",subzone
+Woodlands - Total,255130,Woodlands,D25,"Kranji, Woodgrove",planning_area
+Greenwood Park,40,Woodlands,D25,"Kranji, Woodgrove",subzone
+Midview,35270,Woodlands,D25,"Kranji, Woodgrove",subzone
+North Coast,12100,Woodlands,D25,"Kranji, Woodgrove",subzone
+Senoko West,20,Woodlands,D25,"Kranji, Woodgrove",subzone
+Woodgrove,33790,Woodlands,D25,"Kranji, Woodgrove",subzone
+Woodlands East,98980,Woodlands,D25,"Kranji, Woodgrove",subzone
+Woodlands Regional Centre,10,Woodlands,D25,"Kranji, Woodgrove",subzone
+Woodlands South,41000,Woodlands,D25,"Kranji, Woodgrove",subzone
+Woodlands West,33910,Woodlands,D25,"Kranji, Woodgrove",subzone
+Yishun - Total,221610,Yishun,D27,"Yishun, Sembawang",planning_area
+Khatib,10250,Yishun,D27,"Yishun, Sembawang",subzone
+Lower Seletar,18660,Yishun,D27,"Yishun, Sembawang",subzone
+Nee Soon,890,Yishun,D27,"Yishun, Sembawang",subzone
+Northland,28000,Yishun,D27,"Yishun, Sembawang",subzone
+Springleaf,4370,Yishun,D27,"Yishun, Sembawang",subzone
+Yishun Central,2620,Yishun,D27,"Yishun, Sembawang",subzone
+Yishun East,60670,Yishun,D27,"Yishun, Sembawang",subzone
+Yishun South,42240,Yishun,D27,"Yishun, Sembawang",subzone
+Yishun West,53910,Yishun,D27,"Yishun, Sembawang",subzone
